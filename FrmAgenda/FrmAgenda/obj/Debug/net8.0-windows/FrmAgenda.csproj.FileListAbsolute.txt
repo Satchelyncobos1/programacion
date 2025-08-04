@@ -1,0 +1,17 @@
+C:\prograa_csharp\FrmAgenda\FrmAgenda\bin\Debug\net8.0-windows\FrmAgenda.exe
+C:\prograa_csharp\FrmAgenda\FrmAgenda\bin\Debug\net8.0-windows\FrmAgenda.deps.json
+C:\prograa_csharp\FrmAgenda\FrmAgenda\bin\Debug\net8.0-windows\FrmAgenda.runtimeconfig.json
+C:\prograa_csharp\FrmAgenda\FrmAgenda\bin\Debug\net8.0-windows\FrmAgenda.dll
+C:\prograa_csharp\FrmAgenda\FrmAgenda\bin\Debug\net8.0-windows\FrmAgenda.pdb
+C:\prograa_csharp\FrmAgenda\FrmAgenda\obj\Debug\net8.0-windows\FrmAgenda.Form1.resources
+C:\prograa_csharp\FrmAgenda\FrmAgenda\obj\Debug\net8.0-windows\FrmAgenda.Properties.Resources.resources
+C:\prograa_csharp\FrmAgenda\FrmAgenda\obj\Debug\net8.0-windows\FrmAgenda.csproj.GenerateResource.cache
+C:\prograa_csharp\FrmAgenda\FrmAgenda\obj\Debug\net8.0-windows\FrmAgenda.GeneratedMSBuildEditorConfig.editorconfig
+C:\prograa_csharp\FrmAgenda\FrmAgenda\obj\Debug\net8.0-windows\FrmAgenda.AssemblyInfoInputs.cache
+C:\prograa_csharp\FrmAgenda\FrmAgenda\obj\Debug\net8.0-windows\FrmAgenda.AssemblyInfo.cs
+C:\prograa_csharp\FrmAgenda\FrmAgenda\obj\Debug\net8.0-windows\FrmAgenda.csproj.CoreCompileInputs.cache
+C:\prograa_csharp\FrmAgenda\FrmAgenda\obj\Debug\net8.0-windows\FrmAgenda.dll
+C:\prograa_csharp\FrmAgenda\FrmAgenda\obj\Debug\net8.0-windows\refint\FrmAgenda.dll
+C:\prograa_csharp\FrmAgenda\FrmAgenda\obj\Debug\net8.0-windows\FrmAgenda.pdb
+C:\prograa_csharp\FrmAgenda\FrmAgenda\obj\Debug\net8.0-windows\FrmAgenda.genruntimeconfig.cache
+C:\prograa_csharp\FrmAgenda\FrmAgenda\obj\Debug\net8.0-windows\ref\FrmAgenda.dll
